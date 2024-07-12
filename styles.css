@@ -1,0 +1,36 @@
+body {
+        background-color: black;
+        background-image: url('los photos/GarciaGreaterDOFPractice02.JPG');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+h1 {
+    color: lightslategray;
+    text-shadow: 1px 1px white;
+}
+
+h2 {
+    color: lightslategray;
+    text-shadow: 1px 1px white;
+}
+
+p {
+    color: lightslategray;
+    border: 10px thin lightslategray;
+    border-color: lightslategray;
+}
+
+pre{
+    color: lightslategray;
+    text-shadow: 1px 1px white;
+}
+
+a {
+    color: lightslategray;
+}
+
+a:hover{
+    color: whitesmoke;
+}
